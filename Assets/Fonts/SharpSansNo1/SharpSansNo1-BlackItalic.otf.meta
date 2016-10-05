@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 414bf67f9dbe948efb512b12e8f56ddb
+timeCreated: 1475690524
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sharp Sans No1
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 329d88216f0154725b429efe80ee707e, type: 3}
+  - {fileID: 12800000, guid: 09bbf2b13e8134d8381267c5b4213a5d, type: 3}
+  - {fileID: 12800000, guid: 325ae6b18fec740d687a6542dc6ce249, type: 3}
+  - {fileID: 12800000, guid: 021d57d8f6be4429aa3fbc9fa82a07a2, type: 3}
+  - {fileID: 12800000, guid: 1f805e6d76d1140b7b201239166bc168, type: 3}
+  - {fileID: 12800000, guid: 18e3cfbfa73eb4ef0998d7cf14559f47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
